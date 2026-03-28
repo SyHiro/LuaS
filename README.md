@@ -1,5 +1,7 @@
 # Lua Script
 
+Executor usado: https://xeno.onl/
+
 ---
 
 ## 📦 Desenvolvidos para fins educacionais.
