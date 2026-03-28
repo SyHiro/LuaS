@@ -1,2 +1,13 @@
-# LuaS
-Roblox Scripts
+# Lua Script
+
+---
+
+## 📦 Desenvolvidos para fins educacionais.
+
+### Aim-Incremental
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/heads/main/Aim-Incremental.lua",true))()
+```
+
+---
