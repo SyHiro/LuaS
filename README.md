@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/head
 
 ### Merge-Incremental
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/heads/main/Aim-Incremental.lua",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/heads/main/Merge-Incremental.lua",true))()
 ```
 
 ---
