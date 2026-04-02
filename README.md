@@ -16,4 +16,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/head
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/heads/main/Merge-Incremental.lua",true))()
 ```
 
+### Lumber-Incremental-Simulator
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SyHiro/LuaS/refs/heads/main/Lumber-Incremental-Simulator.lua",true))()
+```
+
 ---
+
+Hotkeys:
+- F5 Hide/Show
+- Delete Unload/Destroy
